@@ -36,20 +36,20 @@ Before proceeding, ensure you have the following installed on your system:
    **docker build -t bmi-calculator:<tag-name> .**
 
 Explanation:
-•	docker build - Creates a Docker image.
-•	-t bmi-calculator:<TAG-NAME> - Assigns a tag (<TAG-NAME>).
-•	. - Uses the current directory as the build context.
+*	docker build - Creates a Docker image.
+*	-t bmi-calculator:<TAG-NAME> - Assigns a tag (<TAG-NAME>).
+*	. - Uses the current directory as the build context.
    
 3. **Run the Container:**
   
    **docker run --rm -v $(pwd)/data:/data -it bmi-calculator:<tag-name>**
 
 Explanation:
-•	docker run - Starts a new container.
-•	--rm - Removes the container after execution.
-•	-v $(pwd)/data:/data - Mounts the data/ folder.
-•	-it - Runs interactively.
-•	bmi-calculator:<TAG-NAME> - Uses the built image.
+*	docker run - Starts a new container.
+*	--rm - Removes the container after execution.
+*	-v $(pwd)/data:/data - Mounts the data/ folder.
+*	-it - Runs interactively.
+*	bmi-calculator:<TAG-NAME> - Uses the built image.
    
 This mounts a `data` directory to persist BMI results.
 
