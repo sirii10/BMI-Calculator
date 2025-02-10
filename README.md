@@ -40,7 +40,7 @@ Result saved to /data/bmi_results.txt
 
 ## Screenshots
 1. Docker image successfully built for the  application
-
+![image](https://github.com/user-attachments/assets/408691f8-b812-4a38-894e-cf8c2369e9a8)
 
 2. Docker container spinning to successfully running application.
 ![image](https://github.com/user-attachments/assets/11fc3e96-f33c-4167-b8eb-215d78ba4764)
