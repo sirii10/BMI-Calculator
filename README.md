@@ -42,8 +42,8 @@ Result saved to /data/bmi_results.txt
 1. Docker image successfully built for the  application
 
 
-2. Docker container spinning to succussfully running application.
-
+2. Docker container spinning to successfully running application.
+![image](https://github.com/user-attachments/assets/11fc3e96-f33c-4167-b8eb-215d78ba4764)
 
 ## Repository Structure
 /
