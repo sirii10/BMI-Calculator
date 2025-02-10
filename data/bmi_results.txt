@@ -1,0 +1,8 @@
+Weight: 97.0 kg, Height: 6'1, BMI: 28.21, Category: Overweight
+Weight: 57.0 kg, Height: 5'7, BMI: 19.68, Category: Normal weight
+Weight: 48.0 kg, Height: 5'6, BMI: 17.08, Category: Underweight
+Weight: 96.0 kg, Height: 6'0, BMI: 28.7, Category: Overweight
+Weight: 52.0 kg, Height: 5'6, BMI: 18.5, Category: Normal weight
+Weight: 82.0 kg, Height: 5'4, BMI: 31.03, Category: Obese
+Weight: 120.0 kg, Height: 5'5, BMI: 44.02, Category: Obese
+Weight: 100.0 kg, Height: 6'3, BMI: 27.56, Category: Overweight
