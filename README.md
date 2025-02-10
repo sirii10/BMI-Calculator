@@ -33,7 +33,7 @@ Before proceeding, ensure you have the following installed on your system:
 ### Running the Application with Docker
 1. **Build the Docker Image:**
   
-   **docker build -t bmi-calculator:<tag-name> .**
+   **docker build -t bmi-calculator:tag-name .**
 
 Explanation:
 *	docker build - Creates a Docker image.
@@ -42,7 +42,7 @@ Explanation:
    
 3. **Run the Container:**
   
-   **docker run --rm -v $(pwd)/data:/data -it bmi-calculator:<tag-name>**
+   **docker run --rm -v $(pwd)/data:/data -it bmi-calculator:tag-name**
 
 Explanation:
 *	docker run - Starts a new container.
